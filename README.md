@@ -15,7 +15,7 @@ A comprehensive personal management dashboard serving as a central hub for Finan
 
 ## 🚀 Live Demo
 
-[View Live App](https://YOUR_USERNAME.github.io/life-os/) (Update this after deployment)
+[View Live App](https://nxllstudio.github.io/life-os/) (Update this after deployment)
 
 ## 🛠️ Tech Stack
 
